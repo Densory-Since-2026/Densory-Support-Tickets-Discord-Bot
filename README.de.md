@@ -1,6 +1,6 @@
 # Densory Tickets — Support & Tickets
 
-![Aktuelle Version: v1.0.1](https://img.shields.io/badge/Aktuelle_Version%3A_v1.0.1-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
+![Aktuelle Version: v1.0.2](https://img.shields.io/badge/Aktuelle_Version%3A_v1.0.2-555) ![Self-Hosted](https://img.shields.io/badge/Self--Hosted-555)
 
 ![Densory Tickets](docs/assets/hero-de.png)
 
