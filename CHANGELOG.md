@@ -1,7 +1,7 @@
 # Changelog — Densory Tickets
 
-## v1.0.3
+## v1.0.4
 
-- Release v1.0.3 published from the Densory build pipeline.
+- Release v1.0.4 published from the Densory build pipeline.
 
 Available in the [Densory Shop](https://densory.com/shop/densory-tickets).
